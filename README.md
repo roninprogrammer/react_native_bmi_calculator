@@ -5,6 +5,6 @@ On the first screen, we can able to select the gender, height , weight , age and
 
 Front end Design 
 ---------------------------
-![alt text](https://pasteboard.co/IYHoIwc.png)
-![alt text] (https://pasteboard.co/IYHoXqf.png)
+![alt text](https://i.ibb.co/YWmVvfj/0-1.png)
+![alt text](https://i.ibb.co/YyTqdsR/0.png)
 
