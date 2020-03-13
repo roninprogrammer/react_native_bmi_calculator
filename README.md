@@ -8,3 +8,7 @@ Front end Design
 ![alt text](https://i.ibb.co/YWmVvfj/0-1.png)
 ![alt text](https://i.ibb.co/YyTqdsR/0.png)
 
+
+BMI Formula 
+------------
+BMI = Mass(Kg) / (height(m))²
