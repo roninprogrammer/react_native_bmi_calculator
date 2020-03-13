@@ -15,3 +15,21 @@ BMI = Mass(Kg) / (height(m))²
 
 Feedback on Body mass index (BMI) to measure body fat based on height and weight. Learn more about what the number means and risk factors here: https://www.nhlbi.nih.gov/health/educational/lose_wt/risk.htm
 
+
+### Install npm modules
+
+```
+
+yarn install 
+
+```
+
+### As this project implemented with ios so run below command to run application
+
+```
+
+react-native run-ios 
+
+```
+
+### Note: Before you run this application, please setup react native correctly in your system. Check react native site for setup
